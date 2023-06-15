@@ -1,1 +1,1 @@
-# -VGG-16-model-on-MNIST-Fashion-dataset-
+# VGG-16-model-on-MNIST-Fashion-dataset-
